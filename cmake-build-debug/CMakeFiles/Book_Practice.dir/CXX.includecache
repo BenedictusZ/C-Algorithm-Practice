@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mozhe/Desktop/C++/MOOC C++/Program Design and Algorithm 2/Book Practice/main.cpp
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cassert
+-
+
